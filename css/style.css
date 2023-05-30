@@ -1,0 +1,135 @@
+h1{
+  font-size: 60px;
+  text-align: center;
+  color: blue;
+
+  
+}
+div{
+  display: inline-block;
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #333;
+  color: green;
+
+}
+div.container{
+  width: 100%;
+  border: 0;
+  text-align: center;
+
+}
+h2{
+  font-size: 45px;
+  text-align: center;
+  color: darkorange;
+  width: 300px;
+  display: inline-block;
+
+}
+h3{
+  font-size: 50px;
+  color: purple;
+  text-align: center;
+}
+.office{
+  color: rgb(53, 52, 51);
+}
+.subtitle{
+  color: rgb(41, 119, 230);
+  font: bold;
+}
+.add{
+  color: rgb(244, 110, 7);
+}
+
+img {
+  
+  width: 300px;
+  
+  height: 200px;
+
+}
+
+#btn01{
+background-color: green;
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+#btn02{
+background-color: rgb(57, 20, 222);
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+#btn03{
+background-color: rgb(206, 14, 168);
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+#btn04{
+background-color: rgb(237, 69, 18);
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+#btn05{
+background-color: rgb(55, 230, 142);
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+#btn06{
+background-color: rgb(227, 127, 21);
+color: azure;
+padding: 10px 20px;
+
+border: 0;
+
+}
+/*moda 클래스 스타일*/
+.modal {
+width: 600px;
+height: 400px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background-color: white;
+
+
+}
+p{
+text-align: center;
+color: coral;
+font-size: 20px;
+
+}
+
+.photo{
+width: 100%;
+border: 0;
+text-align: center;
+box-sizing:100%;
+
+
+}
+#close_modal{
+position: absolute;
+left: 50%;
+bottom: 10%;
+transform:translate (-50%,);
+
+}
